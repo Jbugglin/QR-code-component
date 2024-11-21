@@ -52,7 +52,7 @@ h1 {
 
 p {
     text-align: center;
-    margin: 1rem 1rem 1.75rem;
+    margin: 1rem 1rem 1.625rem;
     color: var(--slate-500);
     font-family: "Outfit", sans-serif;
     font-optical-sizing: auto;
