@@ -42,7 +42,7 @@ img {
 h1 {
     text-align: center;
     font-size: 1.4rem;
-    margin: 1.375rem 1.25rem 1rem;
+    margin: 1.375rem auto 1rem;
     color: var(--slate-900);
     font-family: "Outfit", sans-serif;
     font-optical-sizing: auto;
@@ -52,7 +52,7 @@ h1 {
 
 p {
     text-align: center;
-    margin: 1rem 1rem 1.5rem;
+    margin: 1rem 0.75rem 1.25rem;
     color: var(--slate-500);
     font-family: "Outfit", sans-serif;
     font-optical-sizing: auto;
