@@ -1,17 +1,17 @@
 :root {
     --white: hsl(0, 0%, 100%);
-
     --slate-300: hsl(212, 45%, 89%);
     --slate-500: hsl(216, 15%, 48%);
     --slate-900: hsl(218, 44%, 22%);
 }
 
-/* Mobile view */
 *, *::before, *::after {
     box-sizing: border-box;
     margin: 0;
     padding: 0;
 }
+
+/* Mobile view */
 
 body {
     width: 100dvw;
@@ -24,6 +24,7 @@ body {
 
 main {
     width: 90%;
+    max-width: 337px;
     height: fit-content;
     border-radius: 1rem;
     padding: 0.95rem;
@@ -63,4 +64,3 @@ footer {
     position: absolute;
     bottom: 0;
 }
-/* Desktop view */
