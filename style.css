@@ -23,8 +23,8 @@ body {
 }
 
 main {
-    width: 90%;
-    max-width: 337px;
+    width: 88%;
+    max-width: 325px;
     height: fit-content;
     border-radius: 1rem;
     padding: 0.95rem;
@@ -52,12 +52,13 @@ h1 {
 
 p {
     text-align: center;
-    margin: 1rem 1.5rem 1.75rem;
+    margin: 1rem 1rem 1.75rem;
     color: var(--slate-500);
     font-family: "Outfit", sans-serif;
     font-optical-sizing: auto;
     font-weight: 400;
     font-style: normal;
+    line-height: 1.5;
 }
 
 footer {
